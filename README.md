@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**jasinskidev/jasinskidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with DevOps mindset having industry experience building distributed systems and web applications used by hundreds of thousands of people. Specializing in JavaScript technologies and AWS.
 
 Here are some ideas to get you started:
 
