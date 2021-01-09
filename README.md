@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<b>I'm a software engineer</b> having industry experience building distributed systems and web applications used by hundreds of thousands of people. <b>Specializing in JavaScript technologies and AWS.</b>
+<b>I'm a software engineer</b> having industry experience building distributed systems and web applications used by hundreds of thousands of people. <b>Specializing in web and cloud development.</b>
 
 ### Achievements
 
